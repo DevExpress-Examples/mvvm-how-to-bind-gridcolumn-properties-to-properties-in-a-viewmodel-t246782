@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/GridMVVMBindableColumns/MainPage.xaml) (VB: [MainPage.xaml](./VB/GridMVVMBindableColumns/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/GridMVVMBindableColumns/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/GridMVVMBindableColumns/MainPage.xaml))
+* [ViewModel.cs](./CS/GridMVVMBindableColumns/ViewModel.cs) (VB: [ViewModel.vb](./VB/GridMVVMBindableColumns/ViewModel.vb))
+<!-- default file list end -->
 # MVVM - How to bind GridColumn properties to properties in a ViewModel
 
 
